@@ -151,11 +151,12 @@ An Otter Wiki is using [Flask-Mail](https://pythonhosted.org/Flask-Mail/).
 
 If using Make:
    - `make debug`
+   
 If using IDE:
    - Setup enviornment variable:
      - FLASK_DEBUG=True
      - FLASK_APP=otterwiki.server
      - OTTERWIKI_SETTINGS=../settings.cfg
-   - Run server.py
+   - Run `server.py`
 
 [modeline]: # ( vim: set fenc=utf-8 spell spl=en sts=4 et tw=72: )
